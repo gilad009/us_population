@@ -1,0 +1,16 @@
+span {
+padding-bottom: 1.25rem;
+display: inline-block;
+}
+
+select {
+  font-size: 1em;
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #000;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin-left: 1rem;
+}
